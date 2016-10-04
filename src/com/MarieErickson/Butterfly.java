@@ -3,6 +3,7 @@ package com.MarieErickson;
 /**
  * Created by yd7581ku on 10/4/2016.
  */
+//basic class coding
 public class Butterfly extends Insect
 {
 

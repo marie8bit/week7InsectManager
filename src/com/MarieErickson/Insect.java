@@ -3,6 +3,8 @@ package com.MarieErickson;
 /**
  * Created by yd7581ku on 10/4/2016.
  */
+//abstract superclass will not be used to instantiate an insect object
+// only used for inheritance/requires all subclasses create abstract methods in superclass
 public abstract class Insect
 {
     private String name;
